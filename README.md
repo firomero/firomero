@@ -10,9 +10,9 @@
 
 <br/>
 
-### About Me 🚀
+### About Me 🌱
 💻 I’m a **Full-stack developer** with a bachelor's degree in computer sciences. </br> </br>
-💬 Contact me if you need any help or want to discuss any software development topic! </br></br>
+💬 Contact me if you need any help or want to discuss any about software development and research! </br></br>
    
  <br/>
 <hr />
